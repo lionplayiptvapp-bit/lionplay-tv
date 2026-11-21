@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
+  "versionCode": 7,
   "versionName": "1.0.20261121",
   "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/latest/download/LionPlay-AndroidTV-FireTV.apk",
-  "notes": "Tam iki dilli (T\u00fcrk\u00e7e / \u0130ngilizce) aray\u00fcz deste\u011fi, profil y\u00f6netimi ve lisans modal\u0131 lokalizasyonu."
+  "notes": "Full English/Turkish parity across About, Settings, and Update manager."
 }
