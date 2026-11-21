@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
+  "versionCode": 6,
   "versionName": "1.0.20261121",
   "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/latest/download/LionPlay-AndroidTV-FireTV.apk",
-  "notes": "Canli TV akis cakismasi giderildi, D-Pad onizleme acma/kapatma eklendi."
+  "notes": "Tam iki dilli (T\u00fcrk\u00e7e / \u0130ngilizce) aray\u00fcz deste\u011fi, profil y\u00f6netimi ve lisans modal\u0131 lokalizasyonu."
 }
