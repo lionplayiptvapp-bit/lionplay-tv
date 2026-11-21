@@ -22,7 +22,7 @@
 
 ---
 
-## ⚡ Quick Download Links
+## ⚡ Quick Download LinksF
 
 | Method | Instructions / URL | Target Devices |
 | :--- | :--- | :--- |
@@ -51,7 +51,7 @@
   <br/><br/>
   <img src="assets/screenshot1.png" width="85%" alt="LionPlay Home Experience" style="border-radius: 14px; margin-bottom: 12px;" />
   <br/><br/>
-  <img src="assets/screenshot2.png" width="85%" alt="LionPlay Multi-View & EPG" style="border-radius: 14px; margin-bottom: 12px;" />
+  <img src="assets/Screenshot_1795267900.png" width="85%" alt="LionPlay Multi-View & EPG" style="border-radius: 14px; margin-bottom: 12px;" />
   <br/><br/>
   <img src="assets/screenshot3.png" width="85%" alt="LionPlay Media Center" style="border-radius: 14px;" />
 </div>
