@@ -13,7 +13,7 @@
 
 <br/>
 
-**Experience TV like never before with 4-Screen Multi-View, Real-Time AI Live Subtitles, 3-Column Freeview & Cinematic Apple tvOS Glassmorphic Interface.**
+**Experience TV like never before with 4-Screen Multi-View, Real-Time AI Live Subtitles, 3-Column Freeview & Cinematic Ultra-Smooth Modern TV Interface.**
 
 [📥 Download Latest APK](#-quick-download-links) • [📺 Installation Guide](#-easy-fire-tv--android-tv-installation) • [💎 Premium Features](#-premium-features) • [💳 Pricing & Payments](#-pricing--license-options)
 
@@ -98,7 +98,7 @@ Powered by **Stripe** with automatic currency adaptation:
 ```text
 👑 LIONPLAY TV - The Ultimate Media Player for Fire TV & Android TV!
 
-Upgrade your TV experience with Apple tvOS fluid glass design and high-end playback features:
+Upgrade your TV experience with Ultra-smooth cinematic glass design and high-end playback features:
 
 🔥 Highlights:
 • 🎁 14-Day Free PRO Trial (Zero cost to test!)
@@ -122,7 +122,7 @@ Online Activation: https://androidtvfireos.lionplay.workers.dev
 ```text
 👑 LIONPLAY TV - Android TV ve Fire TV İçin En Gelişmiş Medya Oynatıcı!
 
-Televizyonunuzda benzersiz bir Apple tvOS akıcılığı ve sinematik oynatıcı deneyimi:
+Televizyonunuzda benzersiz bir Ultra akıcı sinematik koyu cam oynatıcı deneyimi:
 
 🔥 Öne Çıkan Özellikler:
 • 🎁 14 Gün Ücretsiz PRO Deneme (Kurar kurmaz anında aktif)
