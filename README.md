@@ -47,6 +47,8 @@
 ## 📸 Screenshots
 
 <div align="center">
+  <img src="assets/splash_tvos.png" width="85%" alt="LionPlay tvOS Splash Experience" style="border-radius: 14px; margin-bottom: 12px;" />
+  <br/><br/>
   <img src="assets/screenshot1.png" width="85%" alt="LionPlay Home Experience" style="border-radius: 14px; margin-bottom: 12px;" />
   <br/><br/>
   <img src="assets/screenshot2.png" width="85%" alt="LionPlay Multi-View & EPG" style="border-radius: 14px; margin-bottom: 12px;" />
