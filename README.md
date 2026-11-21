@@ -32,6 +32,16 @@
 | **🔥 Fire TV Special APK** | [`https://androidtvfireos.lionplay.workers.dev/firetv`](https://androidtvfireos.lionplay.workers.dev/firetv) | Amazon Fire OS Devices |
 | **🤖 Android TV Special APK** | [`https://androidtvfireos.lionplay.workers.dev/androidtv`](https://androidtvfireos.lionplay.workers.dev/androidtv) | Sony, Xiaomi, Philips, Google TV, Shield |
 
+<div align="center">
+
+### 📱 Scan QR Codes with Your Mobile Camera
+
+| 📥 Direct APK Download | 🚀 Downloader (Code: 1804273) | ✈️ Telegram Support & Community |
+| :---: | :---: | :---: |
+| <img src="assets/qr-apk-download.png" width="160" alt="QR Direct APK" /><br/>[Download APK](https://androidtvfireos.lionplay.workers.dev/apk) | <img src="assets/qr-downloader.png" width="160" alt="QR Downloader 1804273" /><br/>[Downloader: 1804273](https://go.aftvnews.com/1804273) | <img src="assets/qr-telegram.png" width="160" alt="QR Telegram" /><br/>[Telegram Grubu](https://t.me/+DCDbZEYDZ7tmZGM0) |
+
+</div>
+
 ---
 
 ## 📸 Screenshots
