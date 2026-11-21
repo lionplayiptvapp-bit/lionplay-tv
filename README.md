@@ -1,7 +1,7 @@
 # LionPlay TV
 
-[![Universal APK](https://img.shields.io/badge/APK-Universal%20(Fire%20TV%20%2B%20Android%20TV)-34C759?style=for-the-badge&logo=android)](https://androidtvfireos.lionplay.workers.dev/apk)
-[![Downloader Code](https://img.shields.io/badge/Downloader%20Code-1804273-FF9F0A?style=for-the-badge&logo=amazonfiretv)](https://androidtvfireos.lionplay.workers.dev)
+[![Universal APK](https://img.shields.io/badge/APK-Universal%20(Fire%20TV%20%2B%20Android%20TV)-34C759?style=for-the-badge&logo=android)](https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV.apk)
+[![Downloader Code](https://img.shields.io/badge/Downloader%20Code-2007080-FF9F0A?style=for-the-badge&logo=amazonfiretv)](https://go.aftvnews.com/2007080)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-0A84FF?style=for-the-badge)](LICENSE)
 
 A high-performance, modern dark-glass IPTV player designed specifically for **Amazon Fire TV, Google TV, and Android TV**, built with Kotlin, Jetpack Compose, and hardware-accelerated Media3 / FFmpeg decoding. Fully optimized for television remote controls (D-Pad).
@@ -30,12 +30,14 @@ A high-performance, modern dark-glass IPTV player designed specifically for **Am
 ### Yöntem 1: Downloader Uygulaması ile (En Kolay Yöntem)
 Televizyonunuzun uygulama mağazasından (Amazon Appstore veya Google Play Store) ücretsiz **Downloader by AFTVnews** uygulamasını açın:
 
-1. Downloader arama çubuğuna **`1804273`** kodunu girin ve **Go** butonuna basın.
-2. İndirme otomatik olarak başlayacaktır.
+1. Downloader arama çubuğuna **`2007080`** kodunu girin ve **Go** butonuna basın.
+   *(Alternatif kısa link: `is.gd/lionplayapk`)*
+2. İndirme doğrudan GitHub Releases üzerinden otomatik olarak başlayacaktır.
 3. İndirme bittiğinde ekrana gelen **Install (Yükle)** butonuna basarak kurulumu tamamlayın.
 
-### Yöntem 2: Doğrudan Web İndirme Bağlantısı
-* **Evrensel APK (Universal):** [https://androidtvfireos.lionplay.workers.dev/apk](https://androidtvfireos.lionplay.workers.dev/apk)
+### Yöntem 2: Doğrudan GitHub ve Web İndirme Bağlantıları
+* **Doğrudan GitHub APK (Universal):** [https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV.apk](https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV.apk)
+* **Kısa İndirme Linki:** [https://is.gd/lionplayapk](https://is.gd/lionplayapk)
 * **Web Dağıtım Portalı:** [https://androidtvfireos.lionplay.workers.dev](https://androidtvfireos.lionplay.workers.dev)
 
 ### Yöntem 3: ADB / USB Bellek ile Sideload
