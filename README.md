@@ -8,6 +8,7 @@
 [![Fire OS](https://img.shields.io/badge/Fire%20OS-Fire%20TV%20Stick%20%2F%20Cube-orange?style=for-the-badge&logo=amazon)](https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/latest)
 [![Android TV](https://img.shields.io/badge/Android%20TV-Google%20TV%20%2F%20Shield-green?style=for-the-badge&logo=android)](https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/latest)
 [![Downloader Code](https://img.shields.io/badge/Downloader%20Code-1804273-FF9F0A?style=for-the-badge&logo=speedtest)](https://go.aftvnews.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Support%20%26%20Community-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/+DCDbZEYDZ7tmZGM0)
 [![License](https://img.shields.io/badge/Trial-14%20Days%20Free%20PRO-blue?style=for-the-badge)](https://androidtvfireos.lionplay.workers.dev)
 [![Payments](https://img.shields.io/badge/Payments-Apple%20Pay%20%7C%20Google%20Pay%20%7C%20Stripe-635BFF?style=for-the-badge&logo=stripe)](https://androidtvfireos.lionplay.workers.dev)
 
@@ -15,7 +16,7 @@
 
 **Experience TV like never before with 4-Screen Multi-View, Real-Time AI Live Subtitles, 3-Column Freeview & Cinematic Ultra-Smooth Modern TV Interface.**
 
-[📥 Download Latest APK](#-quick-download-links) • [📺 Installation Guide](#-easy-fire-tv--android-tv-installation) • [💎 Premium Features](#-premium-features) • [💳 Pricing & Payments](#-pricing--license-options)
+[📥 Download Latest APK](#-quick-download-links) • [📺 Installation Guide](#-easy-fire-tv--android-tv-installation) • [💎 Premium Features](#-premium-features) • [💳 Pricing & Payments](#-pricing--license-options) • [💬 Support](#-support--community)
 
 </div>
 
@@ -116,6 +117,7 @@ Upgrade your TV experience with Ultra-smooth cinematic glass design and high-end
 
 Direct Link: https://androidtvfireos.lionplay.workers.dev/apk
 Online Activation: https://androidtvfireos.lionplay.workers.dev
+💬 Telegram Support: https://t.me/+DCDbZEYDZ7tmZGM0
 ```
 
 ### 🇹🇷 Türkçe Reklam Metni (Telegram, WhatsApp, Forumlar ve Müşteri Grupları)
@@ -140,7 +142,20 @@ Televizyonunuzda benzersiz bir Ultra akıcı sinematik koyu cam oynatıcı deney
 
 Doğrudan İndirme: https://androidtvfireos.lionplay.workers.dev/apk
 Kısa Kod: tinyurl.com/lp1905tv
+💬 Telegram Destek & Topluluk: https://t.me/+DCDbZEYDZ7tmZGM0
 ```
+
+---
+
+## 💬 Support & Community
+
+Need assistance, want to suggest a feature, or have billing questions?
+
+* ✈️ **Official Telegram Support & Community:** [https://t.me/+DCDbZEYDZ7tmZGM0](https://t.me/+DCDbZEYDZ7tmZGM0)
+* ✉️ **Email Support:** [lionplayiptvapp@gmail.com](mailto:lionplayiptvapp@gmail.com)
+* 🌐 **Online Activation:** [https://androidtvfireos.lionplay.workers.dev](https://androidtvfireos.lionplay.workers.dev)
+
+---
 
 ---
 
