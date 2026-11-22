@@ -144,20 +144,6 @@ Open Settings and toggle Hardware Acceleration or switch the decoding profile to
 
 ---
 
-## 🛠️ Building from Source
-
-**Requirements:** Android Studio (Ladybug or later), JDK 17, Android SDK.
-
-```bash
-git clone https://github.com/lionplayiptvapp-bit/android.git
-cd android
-./gradlew assembleRelease
-```
-
-The output APK will be generated at `app/build/outputs/apk/release/app-release.apk`.
-
----
-
 ## 📄 License & Copyright
 
 Copyright (C) 2026 LionPlay TV Contributors.  
@@ -295,20 +281,6 @@ Zorunlu değildir. Sağlayıcınızın kendi afiş ve yayın bilgileri doğrudan
 <br/>
 Ayarlar menüsünden donanım hızlandırma modunu kontrol edebilir veya oynatıcı motorunu Tunneled / Auto-FPS moduna alarak cihazınızın yonga setine en uygun görüntü çıkışını sağlayabilirsiniz.
 </details>
-
----
-
-## 🛠️ Kaynak Koddan Derleme
-
-**Gereksinimler:** Android Studio (Ladybug veya üstü), JDK 17, Android SDK.
-
-```bash
-git clone https://github.com/lionplayiptvapp-bit/android.git
-cd android
-./gradlew assembleRelease
-```
-
-Derlenen APK dosyası `app/build/outputs/apk/release/app-release.apk` dizininde üretilir.
 
 ---
 

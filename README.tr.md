@@ -141,20 +141,6 @@ Ayarlar menüsünden donanım hızlandırma modunu kontrol edebilir veya oynatı
 
 ---
 
-## 🛠️ Kaynak Koddan Derleme
-
-**Gereksinimler:** Android Studio (Ladybug veya üstü), JDK 17, Android SDK.
-
-```bash
-git clone https://github.com/lionplayiptvapp-bit/android.git
-cd android
-./gradlew assembleRelease
-```
-
-Derlenen APK dosyası `app/build/outputs/apk/release/app-release.apk` dizininde üretilir.
-
----
-
 ## 📄 Lisans ve Telif Hakkı
 
 Copyright (C) 2026 LionPlay TV Katkıda Bulunanları.  
