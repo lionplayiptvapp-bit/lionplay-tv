@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.20261121",
+  "versionCode": 11,
+  "versionName": "1.0.20261122A",
   "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/latest/download/LionPlay-AndroidTV-FireTV.apk",
-  "notes": "Full English/Turkish parity across About, Settings, and Update manager."
+  "notes": "Canlı TV 1 tıkla önizleme 2 tıkla tam ekran, profil ekranında anında tek tıkla giriş, ve orantılı film ayıştırma filtreleri."
 }
