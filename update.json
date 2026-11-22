@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.20261122B",
-  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV-v1.0.20261122B.apk",
-  "notes": "Ses ve Altyazı pop-up menüsündeki kapatma (✕) butonuna kumandadan basıldığında anında kapanması sağlandı ve D-Pad kontrol desteği güncellendi."
+  "versionCode": 13,
+  "versionName": "1.0.20261122C",
+  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV-v1.0.20261122C.apk",
+  "notes": "Google Gemini API Anahtarı uyarı penceresinde İptal butonuna D-Pad ile geçiş ve otomatik odaklanma sağlandı."
 }
