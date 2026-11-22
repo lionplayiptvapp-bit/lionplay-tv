@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.20261122A",
-  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/latest/download/LionPlay-AndroidTV-FireTV.apk",
-  "notes": "Canlı TV 1 tıkla önizleme 2 tıkla tam ekran, profil ekranında anında tek tıkla giriş, ve orantılı film ayıştırma filtreleri."
+  "versionCode": 12,
+  "versionName": "1.0.20261122B",
+  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV-v1.0.20261122B.apk",
+  "notes": "Ses ve Altyazı pop-up menüsündeki kapatma (✕) butonuna kumandadan basıldığında anında kapanması sağlandı ve D-Pad kontrol desteği güncellendi."
 }
