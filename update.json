@@ -1,6 +1,6 @@
 {
   "versionCode": 16,
-  "versionName": "1.0.20261122F",
-  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV-v1.0.20261122F.apk",
-  "notes": "Gelişmiş İçerik Yönetimi (Sunucu kategori & kanal sıralama, gizleme/kilitleme, isim temizleme), Altyazı pop-up kapatma butonu ve Gemini API anahtar penceresi kumanda odak navigasyon düzeltmeleri."
+  "versionName": "1.0.20261124F",
+  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV-v1.0.20261124F.apk",
+  "notes": "Otomatik yeniden bağlanma (auto-reconnect), akış protokolü yedekleme (.ts <-> .m3u8 fallback), TV QR eşleştirme PIN görünürlüğü ve Fire OS ekran koruyucu uyku önleme geliştirmeleri."
 }
