@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.20261124F",
-  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV-v1.0.20261124F.apk",
-  "notes": "Otomatik yeniden bağlanma (auto-reconnect), akış protokolü yedekleme (.ts <-> .m3u8 fallback), TV QR eşleştirme PIN görünürlüğü ve Fire OS ekran koruyucu uyku önleme geliştirmeleri."
+  "versionCode": 17,
+  "versionName": "1.0.20261125F",
+  "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV-v1.0.20261125F.apk",
+  "notes": "20261125 Universal Release: Canlı TV kategori odak/tıklama iyileştirmesi, tam ekranda 2 aşamalı kanal seçimi (1x OK önizleme / 2x OK veya Sağ tam ekran), VOD fragman/önizleme temizliği, Player Multi-View ve Ebeveyn PIN korumaları, 20k+ kanal performans ve stabilite iyileştirmeleri."
 }
