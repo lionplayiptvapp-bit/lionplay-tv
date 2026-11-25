@@ -2,5 +2,5 @@
   "versionCode": 18,
   "versionName": "1.0.20261125G",
   "apk": "https://androidtvfireos.lionplay.workers.dev/apk",
-  "notes": "Optional automatic genre and country filters, cached catalog metadata, and a more reliable in-app installer."
+  "notes": "First upgrade from v1.0.20261125F: install this APK once from the official portal because v17 lacks the permission needed to start APK installation. This release enables future in-app updates; Android will still ask you to approve each installation."
 }
