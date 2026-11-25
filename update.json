@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.20261125G",
+  "versionCode": 17,
+  "versionName": "1.0.20261125F",
   "apk": "https://androidtvfireos.lionplay.workers.dev/apk",
-  "notes": "Optional automatic genre and country filters, cached catalog metadata, and a more reliable in-app installer."
+  "notes": "20261125 Universal Release: Live TV category focus and click improvements, two-step full-screen channel selection, VOD preview cleanup, Player Multi-View, parental PIN protection, and performance improvements for 20k+ channels."
 }
