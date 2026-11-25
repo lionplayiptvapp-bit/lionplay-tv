@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.20261125G",
+  "versionCode": 19,
+  "versionName": "1.0.20261125H",
   "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV.apk",
-  "notes": "First upgrade from v1.0.20261125F: install this APK once from the official portal because v17 lacks the permission needed to start APK installation. This release enables future in-app updates; Android will still ask you to approve each installation."
+  "notes": "Remote activation, 5-device limit & revocation sync, and full multilingual remote support."
 }
