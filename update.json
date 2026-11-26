@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.20261126A",
+  "versionCode": 22,
+  "versionName": "1.0.20261126B",
   "apk": "https://github.com/lionplayiptvapp-bit/lionplay-tv/releases/download/v1.0.0/LionPlay-AndroidTV-FireTV.apk",
-  "notes": "Full 33-language UI localization parity (0 leaks), dedicated Android TV & Fire OS backend (androidtvfireos.lionplay.workers.dev) with live Stripe checkout & remote pairing."
+  "notes": "Full 33-language UI localization, dedicated Android TV & Fire OS backend (androidtvfireos.lionplay.workers.dev), and TV remote keyboard focus fix for license key input."
 }
